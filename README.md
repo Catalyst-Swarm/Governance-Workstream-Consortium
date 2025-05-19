@@ -14,8 +14,8 @@ The Governance Workstream Consortium (GWC) is a grassroots governance coordinati
 2. Future Work-streams Proposal Overview - [GDoc](https://docs.google.com/document/d/1H23-B1Z8gU1qTSPlNfduXle2uKfvLg_0jFw0dquIZ00)
 
 **__Coordination and Engagement__**
-**Email:** cardanocommunity2025@gmail.com
-**Discord:** https://discord.gg/PHpgPFTz5m
+- **Email:** cardanocommunity2025@gmail.com
+- **Discord Server** [Join Here](https://discord.gg/PHpgPFTz5m)
 
 1. Cardanocommunity2025 [**Google Calendar**](https://calendar.google.com/calendar/u/0?cid=Y2FyZGFub2NvbW11bml0eTIwMjVAZ21haWwuY29t)
 
