@@ -3,7 +3,7 @@ The Governance Workstream Consortium (GWC) is a grassroots governance coordinati
 
 
 
-1. :miro: [** Miro Board**](https://miro.com/app/board/uXjVIZDjWg0=/)
+1. [Miro Board](https://miro.com/app/board/uXjVIZDjWg0=/)
 a) Driver Mapping
 b) Workspace
 c) MultiSig Ideation + Administration
