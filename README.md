@@ -3,7 +3,7 @@ The Governance Workstream Consortium (GWC) is a grassroots governance coordinati
 
 
 
-1. [Miro Board](https://miro.com/app/board/uXjVIZDjWg0=/)
+[Miro Board](https://miro.com/app/board/uXjVIZDjWg0=/)
 - Driver Mapping
 - Workspace
 - MultiSig Ideation + Administration
@@ -21,14 +21,7 @@ The Governance Workstream Consortium (GWC) is a grassroots governance coordinati
 
 2. Delegates **Draft** March 13 2025 Intersect | Cardano Civics Committee **Presentation** - [GSlide](https://docs.google.com/presentation/d/1So4ZDLWAySk1H4QY2k41hDf48-hBckH8ta_ESxtYGbg)
 
-3. **Meeting Summaries** - Currently don't have specific link where all the summaries are. I see individual links here and there, should we collect those here or there is better way for this? (firefly feature?)
-- Unknown Governance Workstream Meeting - [App Fireflies]( https://app.fireflies.ai/view/Governance-Workstreams::01JPTJQQ9G6F03XE7Q6HTMYY1K)
-- Meeting 6 - Mar28, UTC-F14:00 - [PDF](https://discord.com/channels/1317113094232870953/1352625662359244880/1355226719765790900)
-- Meeting 6 - Mar28, UTC-F14:00 (See if you like this) - [PDF](https://discord.com/channels/1317113094232870953/1352625662359244880/1355301688902287410)
-- Meeting 4 - Mar 27, UTC-T20:00 - [PDF](https://discord.com/channels/1317113094232870953/1352625662359244880/1355074199613472960)
-- Meeting 3 - Mar 21 2025, UTC 14:00 - [PDF](https://discord.com/channels/1317113094232870953/1352625662359244880/1354841447014207609)
-- Meetings 1 and 2 - [PDF](https://discord.com/channels/1317113094232870953/1352625662359244880/1352626295573577790)
-
+3. **Meeting Summaries** - Currently don't have specific link where all the summaries are.
 
 **__Proposal Info__**
 1. Cardano Constitutional Dept Workstreams - [GDoc](https://docs.google.com/document/d/1ruTWv3qoyxnWSoJ1KpilttozfKQGTq0Ly4CyPpS8YM4)
